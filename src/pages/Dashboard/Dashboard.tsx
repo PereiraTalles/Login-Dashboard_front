@@ -63,7 +63,7 @@ export default function Dashboard() {
 
               <div className="coluna-direita">
                 <div className="cabecalho">
-                  <p className="boas-vindas">Bem-vindo de volta, <strong>Kaique Steck</strong></p>
+                  <p className="boas-vindas">Bem-vindo de volta, <strong>Talles Pereira</strong></p>
                   <p className="subtitulo">Todos eventos</p>
                 </div>
                 <div className="quadro-eventos">
